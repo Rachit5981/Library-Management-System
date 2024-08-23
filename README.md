@@ -1,4 +1,3 @@
-Here's a sample README file for the C++ library management project. This README provides a high-level overview of the project, how to compile and run it, and some usage examples. You can use this as a template for your GitHub repository.
 
 ---
 
